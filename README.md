@@ -15,7 +15,7 @@ Also provides testpoints for all three connections.
 | Refdes | Description | Manufacturer PN | Comments |
 | ------ | ----------- | --------------- | -------- |
 | J1, J2, J3 | Banana Jack | Caltest CT3151 | pick color as desired |
-| J4 | Molex SL connector | Molex 70543-0002 | |
+| J4 | Molex SL connector | Molex 70543-0002 | This could be basically any 0.1" header; it doesn't have to be Molex SL. |
 | J5, J6 | Testpoints | n/a | use generic 0.1" breakaway header, or omit. |
 
 ## License
