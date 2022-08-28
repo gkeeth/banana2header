@@ -9,6 +9,8 @@ and negative supplies with a center ground but they can be used arbitrarily.
 
 Also provides testpoints for all three connections.
 
+![Top view of board](topview.png)
+
 ## BOM
 | Refdes | Description | Manufacturer PN | Comments |
 | ------ | ----------- | --------------- | -------- |
